@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ h\ i\ sp
+comment0.target=Paddle(int,\ int,\ int,\ int,\ int,\ java.awt.Image,\ int)
+comment1.params=
+comment1.target=int\ getSpeed()
+comment2.params=s
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=void\ hit()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ moveRight()
+comment6.params=
+comment6.target=void\ moveLeft()
+numComments=7
